@@ -2,6 +2,7 @@
 
 An AI-powered web app that classifies financial news headlines as **Positive**, **Negative**, or **Neutral** in real-time using Machine Learning.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://financial-sentiment-0.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
