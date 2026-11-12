@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+dataset.zip
+create_sample_data.py
+.DS_Store
